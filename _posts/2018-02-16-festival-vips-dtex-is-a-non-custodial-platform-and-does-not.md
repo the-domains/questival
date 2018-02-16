@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Festival VIP’s dTEX is a non-custodial platform and does not take ownership of
   your assets. Clients have full control of their BitShares accounts.
-dateModified: '2018-02-16T02:15:25.514Z'
-datePublished: '2018-02-16T02:15:25.927Z'
+dateModified: '2018-02-16T02:16:06.653Z'
+datePublished: '2018-02-16T02:16:06.877Z'
 title: ''
 author: []
 publisher: {}
