@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-16T04:09:24.065Z'
-datePublished: '2018-02-16T04:09:25.210Z'
-title: Welcome to our Decentralized Ticket Exchange (dTEX)
+dateModified: '2018-02-16T04:10:39.681Z'
+datePublished: '2018-02-16T04:10:40.355Z'
+title: Welcome to the Festival VIP Decentralized Ticket Exchange (dTEX)
 author: []
 publisher: {}
 via: {}
@@ -16,7 +16,7 @@ url: welcome-to-our-decentralized-ticket-exchange-dtex/index.html
 _type: Article
 
 ---
-# Welcome to our Decentralized Ticket Exchange (dTEX)
+# Welcome to the Festival VIP Decentralized Ticket Exchange (dTEX)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3fe1720-006f-44a7-bb59-3038ab116c78.png)
 
 ### Initially, we will be supporting Bitcoin (BTC), Ethereum (ETH), BitShares (BTS), STEEM, and bitUSD trading markets.
