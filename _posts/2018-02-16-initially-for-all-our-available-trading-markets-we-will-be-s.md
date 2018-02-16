@@ -1,18 +1,18 @@
 ---
 inFeed: true
 description: Welcome to our Decentralized Ticket Exchange  (dTEX)
-dateModified: '2018-02-16T02:35:49.112Z'
-datePublished: '2018-02-16T02:35:49.868Z'
+dateModified: '2018-02-16T02:36:05.616Z'
+datePublished: '2018-02-16T02:36:05.851Z'
 title: >-
   Initially for all our available trading markets we will be supporting Bitcoin
   (BTC), Ethereum (ETH), BitShares (BTS), STEEM, and bitUSD
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2018-02-16T02:35:49.868Z'
 sourcePath: >-
   _posts/2018-02-16-initially-for-all-our-available-trading-markets-we-will-be-s.md
+starred: false
+datePublishedOriginal: '2018-02-16T02:35:49.868Z'
 _type: Blurb
 
 ---
