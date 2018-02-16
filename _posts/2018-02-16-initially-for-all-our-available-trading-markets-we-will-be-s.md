@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-16T02:54:49.791Z'
-datePublished: '2018-02-16T02:54:50.777Z'
+dateModified: '2018-02-16T02:55:57.333Z'
+datePublished: '2018-02-16T02:55:58.056Z'
 title: Welcome to our Decentralized Ticket Exchange (dTEX)
 author: []
 publisher: {}
