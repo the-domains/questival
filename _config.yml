@@ -58,4 +58,7 @@ purpose:
   - type: external
     url: 'https://wallet.bitshares.org/?r=festival-vip'
     label: CREATE YOUR ACCOUNT TODAY
+  - type: external
+    url: 'https://t.me/festivalvip'
+    label: Join Our Telegram Conversation
 url: 'http://festival.vip'
