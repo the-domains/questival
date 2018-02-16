@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-16T04:10:39.681Z'
-datePublished: '2018-02-16T04:10:40.355Z'
+dateModified: '2018-02-16T05:01:29.980Z'
+datePublished: '2018-02-16T05:01:30.608Z'
 title: Welcome to the Festival VIP Decentralized Ticket Exchange (dTEX)
 author: []
 publisher: {}
@@ -44,6 +44,12 @@ Our Genesis Festival VIP Event will show the world there are now unlimited ways 
 * RV Camping with NO Hookups
 
 \*\*Click on the symbol of the crypto you want to use
+
+## Need help creating a BitShares Account?
+
+<article style=""><img src="https://steemitimages.com/DQmbXn7VWyfw6kVBjq6Md7EhBwQGVf1o15w6Xmom4gYfCBN/image.png" /><h1>Creating a Bitshares account is super simple!! - Steemit</h1><p>go bit bitshares.org ~i chose the online exchange ~click create account ~create a username and copy your... by cryptofeez</p></article>
+
+
 
 [0]: https://steemit.com/@onelove-eco "Click to See One Love Eco"
 [1]: https://wallet.bitshares.org/?focus=ONELOVE#/market/ONELOVEFEST_OPEN.BTC "Buy with Bitcoin BTC"
