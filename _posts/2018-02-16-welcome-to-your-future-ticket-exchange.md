@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Utilizing the most proven and robust Crypto-Technologies in the world,
   Festival VIP brings you the first ever Decentralized Ticket Exchange (dTEX)
-dateModified: '2018-02-16T02:00:32.921Z'
-datePublished: '2018-02-16T02:00:33.612Z'
+dateModified: '2018-02-16T02:16:06.653Z'
+datePublished: '2018-02-16T02:16:06.875Z'
 title: Your Future Ticket Exchange Is Ready Today
 author: []
 publisher: {}
