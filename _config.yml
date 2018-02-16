@@ -5,7 +5,7 @@ colors:
     - 'hsl(0,0%,60%)'
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
-name: Festival.VIP
+name: Festival VIP
 layout_spectrum: 0.5295576765201986
 typography_spectrum: 0.03784945793449879
 color:
@@ -45,7 +45,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 title: Welcome To The First Decentralized Festival Ticket Market
-description: Buy With Crypto For Tickets At Your Favorite Festivals
+description: Buy Festival Tickets With Crypto For At Your Favorite Festivals
 author:
   name: Crypto Wizard
   email: wizard@festival.vip
