@@ -4,8 +4,8 @@ description: >-
   Festival VIP’s dTEX is a non-custodial platform and does not take ownership of
   your assets. Our community of users have full control of their BitShare
   accounts, which is what you use to Trade Crypto for Tickets!
-dateModified: '2018-02-16T02:18:32.921Z'
-datePublished: '2018-02-16T02:18:35.019Z'
+dateModified: '2018-02-16T02:36:05.616Z'
+datePublished: '2018-02-16T02:36:05.837Z'
 title: ''
 author: []
 publisher: {}
