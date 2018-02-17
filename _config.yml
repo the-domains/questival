@@ -28,6 +28,9 @@ navigation:
   - name: Community Forum
     url: 'http://forum.festival.vip'
     type: external
+  - name: 'Trade Tickets [dTEX]'
+    id: ac22161a-1b9c-408d-b525-debcf4d2933c
+    type: content
 title: Welcome To The First Decentralized Festival Ticket Market
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
