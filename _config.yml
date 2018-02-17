@@ -16,6 +16,7 @@ author:
   name: Crypto Wizard
   email: wizard@festival.vip
 name: Festival VIP
+url: 'http://festival.vip'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -27,6 +28,9 @@ navigation:
   - name: 'Tickets [dTEX]'
     id: ac22161a-1b9c-408d-b525-debcf4d2933c
     type: content
+  - name: Community Forum
+    url: 'http://forum.festival.vip'
+    type: external
 title: Welcome To The First Decentralized Festival Ticket Market
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -61,4 +65,3 @@ purpose:
   - type: external
     url: 'https://t.me/festivalvip'
     label: Join Our Telegram Conversation
-url: 'http://festival.vip'
