@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2018-02-16T05:01:29.980Z'
-datePublished: '2018-02-16T05:01:30.608Z'
+dateModified: '2018-02-17T05:45:00.677Z'
+datePublished: '2018-02-17T05:45:01.357Z'
 title: Welcome to the Festival VIP Decentralized Ticket Exchange (dTEX)
 author: []
 publisher: {}
