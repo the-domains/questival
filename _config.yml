@@ -25,9 +25,6 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
-  - name: 'Tickets [dTEX]'
-    id: ac22161a-1b9c-408d-b525-debcf4d2933c
-    type: content
   - name: Community Forum
     url: 'http://forum.festival.vip'
     type: external
